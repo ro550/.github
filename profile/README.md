@@ -1,4 +1,3 @@
-
 ## 🚀 About Me
 I'm Rodney Karia, a passionate full-stack developer specializing in building dynamic web applications and AI-powered systems. I focus on creating scalable solutions using modern technologies and exploring innovative approaches to problem-solving.
 
@@ -10,6 +9,7 @@ I'm Rodney Karia, a passionate full-stack developer specializing in building dyn
 
 ### Frontend
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
@@ -17,13 +17,19 @@ I'm Rodney Karia, a passionate full-stack developer specializing in building dyn
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
 
 ### Databases
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
 ### AI & Data Processing
 ![Spacy](https://img.shields.io/badge/Spacy-09A3D5?style=for-the-badge&logo=python&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+
+### Tools & Version Control
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
 ## 🎯 What I'm Working On
 - Building scalable full-stack applications across modern web stacks  
@@ -47,5 +53,3 @@ I'm Rodney Karia, a passionate full-stack developer specializing in building dyn
 - Improving backend systems with a focus on reliability and scale  
 
 ---
-
-
