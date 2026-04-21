@@ -1,5 +1,5 @@
 ## 🚀 About Me
-I'm Rodney Karia, a passionate full-stack developer specializing in building dynamic web applications and AI-powered systems. I focus on creating scalable solutions using modern technologies and exploring innovative approaches to problem-solving.
+I'm Rodney Karia, a hands-on full-stack developer specializing in building dynamic web applications and AI-powered systems. I focus on creating scalable solutions using modern technologies and exploring innovative approaches to problem-solving.
 
 ## 💻 Tech Stack
 
